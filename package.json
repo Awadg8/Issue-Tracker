@@ -162,6 +162,6 @@
     "start": "nodemon index.js",
     "test": "node index.js"
   },
-  "author": "Shibaram Mandal",
+  "author": "Awadhesh Gupta",
   "license": "MIT"
 }
