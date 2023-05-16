@@ -159,7 +159,6 @@
     "wrench": "^1.3.9"
   },
   "scripts": {
-    "start": "nodemon index.js",
     "test": "node index.js"
   },
   "author": "Awadhesh Gupta",
