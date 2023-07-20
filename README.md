@@ -26,7 +26,8 @@ cd issue-tracker
 npm install
 
 ## Start the application
-nodemon index.js
+nodemon index.js or
+npm start
 
 
 
